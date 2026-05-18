@@ -15,6 +15,10 @@ Final project for Introduction to Artificial Intelligence.
 - **CIFAR-10**: Publicly available at https://www.cs.toronto.edu/~kriz/cifar.html  
   Download the Python version and place it in `part2_classification/cifar-10-batches-py/`
 
+## Report
+
+The full report can be viewed here: [Overleaf Report](https://www.overleaf.com/read/hmmcwwgdxcfr#d47f7a)
+
 ## Notes
 
 - Saved model files are not included in this repository as they can be reproduced by running the scripts.
