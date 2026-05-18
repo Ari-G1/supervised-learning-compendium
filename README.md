@@ -17,6 +17,13 @@ Final project for Introduction to Artificial Intelligence.
 
 The full report can be viewed here: [Overleaf Report](https://www.overleaf.com/read/hmmcwwgdxcfr#d47f7a)
 
+## Results Summary
+| Part | Model | Test Performance |
+|------|-------|-----------------|
+| 1 - Regression | KNN (k=5) | RMSE: 2.437, R²: 0.895 |
+| 2 - Classification | Logistic Regression | Accuracy: 40.27% |
+| 3 - Neural Network | 3-block CNN | Accuracy: 83.63% |
+
 ## Notes
 - Saved model files are not included in this repository as they can be reproduced by running the scripts.
 - All results reported in the Overleaf report are reproducible by running the provided code.
