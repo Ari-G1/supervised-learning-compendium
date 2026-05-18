@@ -10,8 +10,8 @@ Final project for Introduction to Artificial Intelligence.
 
 ## Datasets
 
-- Part 1:**Auto MPG**: Publicly available at https://archive.ics.uci.edu/dataset/9/auto+mpg
-- Part 2:**CIFAR-10**: Publicly available at https://www.cs.toronto.edu/~kriz/cifar.html  
+- Part 1: **Auto MPG**: Publicly available at https://archive.ics.uci.edu/dataset/9/auto+mpg
+- Part 2: **CIFAR-10**: Publicly available at https://www.cs.toronto.edu/~kriz/cifar.html  
 
 ## Report
 
